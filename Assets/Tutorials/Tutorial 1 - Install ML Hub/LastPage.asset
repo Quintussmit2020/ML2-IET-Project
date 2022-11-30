@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 10-TutorialPage
+  m_Name: LastPage
   m_EditorClassIdentifier: 
   m_Paragraphs:
     m_Items:
@@ -35,7 +35,7 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Create the XR Rig
+        m_Untranslated: Page title
       Text:
         m_Untranslated: Put your tutorial narrative description here
       m_Tutorial: {fileID: 0}
@@ -54,9 +54,28 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 1
       Title:
-        m_Untranslated: Delete the existing camera
+        m_Untranslated: Instruction title
       Text:
-        m_Untranslated: In the Hierarchy, select and delte the existing main camera
+        m_Untranslated: Wait for the pacakges to install, then select the next tutorial
+      m_Tutorial: {fileID: 0}
+      m_Image: {fileID: 0}
+      m_Video: {fileID: 0}
+      m_CriteriaCompletion: 0
+      m_Criteria:
+        m_Items: []
+      m_MaskingSettings:
+        m_MaskingEnabled: 0
+        m_UnmaskedViews: []
+      m_Summary: 
+      m_Description: 
+      m_InstructionBoxTitle: 
+      m_InstructionText: 
+      m_TutorialButtonText: 
+    - m_Type: 2
+      Title:
+        m_Untranslated: 
+      Text:
+        m_Untranslated: 'Tutorial X: Make the best game!'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

@@ -19,7 +19,7 @@ MonoBehaviour:
   OrderInView: 0
   BackgroundImage: {fileID: 0}
   Title:
-    m_Untranslated: Title
+    m_Untranslated: Magic Leap 2 setup tutorials
   Subtitle:
     m_Untranslated: Subtitle
   Description:
@@ -28,19 +28,29 @@ MonoBehaviour:
   Sections:
   - OrderInView: 0
     Heading:
-      m_Untranslated: 
+      m_Untranslated: Step 1 - Install the ML Hub
     Text:
-      m_Untranslated: Tutorial description
+      m_Untranslated: The first step in setting up for ML application development
+        is to set up the ML Hub on your local machine.
     Metadata: 
     Url: 
-    Image: {fileID: 0}
+    Image: {fileID: 2800000, guid: c099a3390df149142ac3dd1fdb7ad721, type: 3}
     Tutorial: {fileID: 11400000, guid: 3f44d25fa64184540bb2a5cfcc1ac092, type: 2}
-  - OrderInView: 0
+  - OrderInView: 1
     Heading:
-      m_Untranslated: Setting up the development environment
+      m_Untranslated: Step 2 - Setting up the development environment
     Text:
       m_Untranslated: Set up the basic development environment in the Unity Editor
     Metadata: 
     Url: 
-    Image: {fileID: 0}
+    Image: {fileID: 2800000, guid: c099a3390df149142ac3dd1fdb7ad721, type: 3}
     Tutorial: {fileID: 11400000, guid: 72e81b0afbd1770469c4e35317e1e5d8, type: 2}
+  - OrderInView: 2
+    Heading:
+      m_Untranslated: Step 3 - Explore a simple application
+    Text:
+      m_Untranslated: Look at the various parts of a sample application
+    Metadata: 
+    Url: 
+    Image: {fileID: 2800000, guid: c099a3390df149142ac3dd1fdb7ad721, type: 3}
+    Tutorial: {fileID: 11400000, guid: aa2123e1f16e1cf43bf2423e355a5b3d, type: 2}

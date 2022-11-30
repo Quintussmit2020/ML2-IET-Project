@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8f107dc6d4c984c45bdafd3bb15f98f0, type: 3}
-  m_Name: New Tutorial
+  m_Name: Tutorial - Set up for ML Develoment
   m_EditorClassIdentifier: 
   TutorialTitle:
-    m_Untranslated: New Tutorial
+    m_Untranslated: Set up development environment
   m_ProgressTrackingEnabled: 1
-  m_LessonId: 840583b9-8d14-48b2-b2df-3bb2093473b8
+  m_LessonId: f5df1fef-886f-42f2-833e-3880e26f2b1e
   m_Version: 1
   m_SceneManagementBehavior: 0
   m_Scenes: []
@@ -38,9 +38,20 @@ MonoBehaviour:
   m_WindowLayout: {fileID: 0}
   m_Pages:
     m_Items:
-    - {fileID: 11400000, guid: e47e0c310cc4e404ea32a45c653b58d3, type: 2}
-    - {fileID: 11400000, guid: 358d6e2d2512b1e4f85e8e19a43c700b, type: 2}
-    - {fileID: 11400000, guid: 7c2fdf7be73c0a74f9dbe8fc72034fff, type: 2}
+    - {fileID: 11400000, guid: f4416ae4f38fa4942beaa9d72210ab1f, type: 2}
+    - {fileID: 11400000, guid: 543bf560c3cc075428292dfe63e63cac, type: 2}
+    - {fileID: 11400000, guid: 371090921154f77448b274a46def5e70, type: 2}
+    - {fileID: 11400000, guid: 736aef7c114b30742bb55550d178760b, type: 2}
+    - {fileID: 11400000, guid: b995184991778344bb4464246bc5434a, type: 2}
+    - {fileID: 11400000, guid: bf11a064fe839244ebafc9da3d0979bb, type: 2}
+    - {fileID: 11400000, guid: 1b5a770f03a39af4daa3082de39a720d, type: 2}
+    - {fileID: 11400000, guid: b777c4566d0a574459a6f5374e07e687, type: 2}
+    - {fileID: 11400000, guid: 2a8ff912fbf5d324a82420898a9a88dd, type: 2}
+    - {fileID: 11400000, guid: 58bd03961d0fe164bba6ed584b42cd54, type: 2}
+    - {fileID: 11400000, guid: d7de992cec6b8d045acda213fa85a2c2, type: 2}
+    - {fileID: 11400000, guid: 805462c1508d3ba4a97728ff7742c14b, type: 2}
+    - {fileID: 11400000, guid: bad2b8aadca389947a0f4ed70e8562c1, type: 2}
+    - {fileID: 11400000, guid: 75b3b612b1bba3c4caa121b72dd071f9, type: 2}
   Modified:
     m_PersistentCalls:
       m_Calls: []

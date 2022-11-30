@@ -324,7 +324,7 @@ GameObject:
   - component: {fileID: 398778346}
   - component: {fileID: 398778347}
   m_Layer: 0
-  m_Name: MeshSample
+  m_Name: MeshController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 10-TutorialPage
+  m_Name: 5-Set up the XR Rig
   m_EditorClassIdentifier: 
   m_Paragraphs:
     m_Items:
@@ -35,9 +35,10 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Page title
+        m_Untranslated: Set up the XR Rig
       Text:
-        m_Untranslated: Put your tutorial narrative description here
+        m_Untranslated: You will find the XR Rig in the SDK package. The XR Rig contains
+          a bunch of stuff I still need to describe here
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -56,7 +57,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction title
       Text:
-        m_Untranslated: Put your tutorial instructions here
+        m_Untranslated: Drag the XR Rig prefab from Packages>Magic Leap SDK>Tools>Prefabs
+          to the Hierarchy
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -86,7 +88,7 @@ MonoBehaviour:
       m_ComponentIndex: 0
       m_AssetObject: {fileID: 0}
       m_Prefab: {fileID: 0}
-    m_Enabled: 0
+    m_Enabled: 1
   NextButton:
     m_Untranslated: Next
   DoneButton:
