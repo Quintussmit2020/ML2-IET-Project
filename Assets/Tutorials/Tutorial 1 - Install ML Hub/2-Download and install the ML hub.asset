@@ -60,7 +60,7 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 1
       Title:
-        m_Untranslated: 
+        m_Untranslated: Instruction
       Text:
         m_Untranslated: Download the ML Hub from <a href="https://ml2-developer.magicleap.com/downloads">ML
           Hub</a> and run the installer

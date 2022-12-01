@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 4-Select Unity option
+  m_Name: 8-Open the project validation tool
   m_EditorClassIdentifier: 
   m_Paragraphs:
     m_Items:
@@ -20,7 +20,7 @@ MonoBehaviour:
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 2800000, guid: 4b08643dbe945df43bb53e81d06b0577, type: 3}
+      m_Image: {fileID: 2800000, guid: 91ebf503503b5d9488acaff25700ca17, type: 3}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -35,9 +35,11 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Select your development platform
+        m_Untranslated: Open the validation tool
       Text:
-        m_Untranslated: 
+        m_Untranslated: 'A project validation tool is provided with the SDK that
+          allows the user to set all the relevant settings for Magic Leap development
+          quickly. '
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -56,7 +58,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: Select the Unity option
+        m_Untranslated: Open the validation tool by selecting Window>XR>MagicLeap>Project
+          validation
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

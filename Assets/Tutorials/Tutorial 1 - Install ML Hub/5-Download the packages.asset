@@ -92,7 +92,7 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 1
       Title:
-        m_Untranslated: 
+        m_Untranslated: Instruction
       Text:
         m_Untranslated: Select the packages you wish to install and select <b>Apply
           Changes</b>

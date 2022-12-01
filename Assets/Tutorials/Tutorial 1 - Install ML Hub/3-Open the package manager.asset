@@ -55,7 +55,7 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 1
       Title:
-        m_Untranslated: Download the Unity packages
+        m_Untranslated: Instruction
       Text:
         m_Untranslated: Select the Package Manager option on the top right corner
           of the ML Hub screen to open it.

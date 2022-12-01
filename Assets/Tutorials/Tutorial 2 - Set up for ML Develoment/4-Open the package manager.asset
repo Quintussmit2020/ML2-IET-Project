@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 9-Open Project Settings
+  m_Name: 4-Open the package manager
   m_EditorClassIdentifier: 
   m_Paragraphs:
     m_Items:
@@ -35,12 +35,9 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Open Project Settings
+        m_Untranslated: Open the Unity Package Manager
       Text:
-        m_Untranslated: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-          ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-          ex ea commodo consequat.
+        m_Untranslated: 
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -57,9 +54,10 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 1
       Title:
-        m_Untranslated: Instruction
+        m_Untranslated: Instruction title
       Text:
-        m_Untranslated: Select Edit>Project settings
+        m_Untranslated: Open the Unity package manager by selecting  Window>Package
+          manager
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
