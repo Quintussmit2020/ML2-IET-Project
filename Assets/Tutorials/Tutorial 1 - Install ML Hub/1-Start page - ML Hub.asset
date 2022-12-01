@@ -35,15 +35,17 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Setting up the ML Hub
+        m_Untranslated: Set up the ML Hub
       Text:
-        m_Untranslated: In these steps, you will download and install the ML hub.
-          The ML hub is an aplication from Magic Leap that allow you to Lorem ipsum
-          dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-          ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-          exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-          aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-          eu fugiat nulla pariatur
+        m_Untranslated: 'In these steps, you will download and install the Magic
+          Leap Hub. The Magic Leap Hub lets you install and manage Magic Leap tools,
+          including the Magic Leap OS, SDK packages for native and Unity development,
+          and an Application Simulator. You can also download code example packages
+          to help you get started with building applications.
+
+
+          Select
+          Next below to continue with the tutorial.'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

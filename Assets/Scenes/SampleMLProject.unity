@@ -321,8 +321,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 398778345}
-  - component: {fileID: 398778346}
-  - component: {fileID: 398778347}
   m_Layer: 0
   m_Name: MeshController
   m_TagString: Untagged
@@ -339,51 +337,12 @@ Transform:
   m_GameObject: {fileID: 398778344}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 10, y: 10, z: 10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1224465645}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &398778346
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 398778344}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 956cd32ac0c2fcf4f8c15f968dcd5e5e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  meshingSubsystemComponent: {fileID: 398778347}
---- !u!114 &398778347
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 398778344}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 07a339584661f5b42b5766e32c47fbc1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MeshPrefab: {fileID: 28707669246541887, guid: 5a3518d71e039cd41b511edc8c1f9dbc,
-    type: 3}
-  m_ComputeNormals: 1
-  m_Density: 1
-  m_MeshParent: {fileID: 1224465645}
-  m_RequestedMeshType: 0
-  m_FillHoleLength: 1
-  m_Planarize: 0
-  m_DisconnectedComponentArea: 0.25
-  m_MeshQueueSize: 4
-  m_PollingRate: 0.25
-  m_BatchSize: 16
-  m_RequestVertexConfidence: 0
-  m_RemoveMeshSkirt: 0
 --- !u!1001 &1018209842
 PrefabInstance:
   m_ObjectHideFlags: 0

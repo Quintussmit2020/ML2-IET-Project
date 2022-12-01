@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 15-LastPage
+  m_Name: 10-Last Page
   m_EditorClassIdentifier: 
   m_Paragraphs:
     m_Items:
@@ -35,9 +35,9 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Page title
+        m_Untranslated: Congratulations!
       Text:
-        m_Untranslated: Put your tutorial narrative description here
+        m_Untranslated: This concludes the tutorials.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -54,9 +54,9 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 1
       Title:
-        m_Untranslated: Instruction title
+        m_Untranslated: 
       Text:
-        m_Untranslated: Put your tutorial instructions here
+        m_Untranslated: 
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

@@ -35,10 +35,47 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Page title
+        m_Untranslated: Select and install packages
       Text:
-        m_Untranslated: There are required packages, but we suggest you install all
-          of them.
+        m_Untranslated: 'To create Magic Leap applications in the Unity editor, you
+          have to install at least the ML C SDK and the Unity Package options.
+
+
+          We
+          also suggest you install the optional packages if this is the first time
+          you are developing Magic Leap applications.
+
+
+          <b>Unity Examples</b>
+
+          These
+          are example projects that demonstrate the implementation of all the headset
+          features.
+
+
+          <b>Magic Leap Application Simulator for Unity</b>
+
+          Run
+          the Magic Leap simulator inside the Unity Editor.
+
+
+          <b>Unity
+          API Documentation</b>
+
+          Documentation on implementing the headset
+          features in your application.
+
+
+          <b>Unity Soundfield Audio</b>
+
+          Plugin
+          for spatialized sound.
+
+
+          <b>Magic Leap Application Simulator</b>
+
+          Iterate
+          faster using the Magic Leap Application Simulator'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -55,10 +92,10 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 1
       Title:
-        m_Untranslated: Install the packages
+        m_Untranslated: 
       Text:
-        m_Untranslated: Select all of the options you wish to install, then select
-          Apply Changes
+        m_Untranslated: Select the packages you wish to install and select <b>Apply
+          Changes</b>
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

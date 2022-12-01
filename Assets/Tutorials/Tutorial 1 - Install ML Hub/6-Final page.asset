@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: LastPage
+  m_Name: 6-Final page
   m_EditorClassIdentifier: 
   m_Paragraphs:
     m_Items:
@@ -35,9 +35,12 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Page title
+        m_Untranslated: Congratulations
       Text:
-        m_Untranslated: Put your tutorial narrative description here
+        m_Untranslated: "You just installed all the required packages to start Magic
+          Leap development in the Unity Editor. \n\nThe next step is to set up the
+          Unity Editor development environment.\n\nSelect Done below and then select
+          the next tutorial."
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -54,9 +57,9 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 1
       Title:
-        m_Untranslated: Instruction title
+        m_Untranslated: 
       Text:
-        m_Untranslated: Wait for the pacakges to install, then select the next tutorial
+        m_Untranslated: 
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 5.3 - Close the validator tool
+  m_Name: 2-Download and install the ML hub
   m_EditorClassIdentifier: 
   m_Paragraphs:
     m_Items:
@@ -35,12 +35,15 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Close the validation tool
+        m_Untranslated: Download and install the Magic Leap Hub
       Text:
-        m_Untranslated: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-          ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-          ex ea commodo consequat.
+        m_Untranslated: 'You can download the Magic Leap Hub from the Magic Leap
+          developers portal.The portal provides an installation for both Windows
+          and macOS users.
+
+
+          Use the link below to download and install
+          the application, then return to the tutorial to continue'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -59,7 +62,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: Close the validation tool window
+        m_Untranslated: Download the ML Hub from <a href="https://ml2-developer.magicleap.com/downloads">ML
+          Hub</a> and run the installer
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Tutorial - Set up for ML Develoment
   m_EditorClassIdentifier: 
   TutorialTitle:
-    m_Untranslated: Set up development environment
+    m_Untranslated: Set up the development environment
   m_ProgressTrackingEnabled: 1
-  m_LessonId: f5df1fef-886f-42f2-833e-3880e26f2b1e
+  m_LessonId: 3a66e4f9-96d1-44b0-9b94-c01f7b25e527
   m_Version: 1
   m_SceneManagementBehavior: 0
   m_Scenes: []
@@ -42,7 +42,7 @@ MonoBehaviour:
     - {fileID: 11400000, guid: 543bf560c3cc075428292dfe63e63cac, type: 2}
     - {fileID: 11400000, guid: 371090921154f77448b274a46def5e70, type: 2}
     - {fileID: 11400000, guid: 736aef7c114b30742bb55550d178760b, type: 2}
-    - {fileID: 11400000, guid: b995184991778344bb4464246bc5434a, type: 2}
+    - {fileID: 11400000, guid: 15dd4bee98b31be4ca295bafb9f293bc, type: 2}
     - {fileID: 11400000, guid: bf11a064fe839244ebafc9da3d0979bb, type: 2}
     - {fileID: 11400000, guid: 1b5a770f03a39af4daa3082de39a720d, type: 2}
     - {fileID: 11400000, guid: b777c4566d0a574459a6f5374e07e687, type: 2}

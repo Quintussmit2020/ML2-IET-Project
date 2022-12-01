@@ -37,10 +37,15 @@ MonoBehaviour:
       Title:
         m_Untranslated: Build the application
       Text:
-        m_Untranslated: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-          ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-          ex ea commodo consequat.
+        m_Untranslated: 'When the application runs, it will detect the physical space
+          around your and show a mesh over it.
+
+
+          <b>Trigger</b>
+
+          When
+          you pull the trigger button, a cube wil be generated that will fall and
+          bounce on the mesh.'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -57,11 +62,9 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 1
       Title:
-        m_Untranslated: 
+        m_Untranslated: Instruction
       Text:
-        m_Untranslated: Connect your headset and build the application to your headset.
-          The application should detect the physical space around your and show a
-          mesh over it.
+        m_Untranslated: 'Connect your headset and build the application to your headset. '
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

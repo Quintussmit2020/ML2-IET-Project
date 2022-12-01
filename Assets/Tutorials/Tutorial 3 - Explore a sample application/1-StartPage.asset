@@ -35,9 +35,11 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Page title
+        m_Untranslated: Your first Magic Leap application
       Text:
-        m_Untranslated: Put your tutorial narrative description here
+        m_Untranslated: In this tutorial, you will build a simple application that
+          use the Magic Leap meshing subsystem to map a room and create a digital
+          mesh representation of the room geometry.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

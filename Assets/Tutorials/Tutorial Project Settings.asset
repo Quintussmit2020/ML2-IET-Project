@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 579f019eb5d26450982c6ae506c6c3ff, type: 3}
   m_Name: Tutorial Project Settings
   m_EditorClassIdentifier: 
-  m_WelcomePage: {fileID: 0}
+  m_WelcomePage: {fileID: 11400000, guid: d4caab24a8bca6849aa21a6e77f6b558, type: 2}
   m_InitialScene: {fileID: 0}
   m_InitialCameraSettings:
     m_CameraMode: 0
@@ -30,5 +30,5 @@ MonoBehaviour:
       m_AssetObject: {fileID: 0}
       m_Prefab: {fileID: 0}
     m_Enabled: 0
-  m_TutorialStyle: {fileID: 0}
+  m_TutorialStyle: {fileID: 11400000, guid: bcaf24dcefa7047b19a2b51c946e64bf, type: 2}
   m_RestoreDefaultAssetsOnTutorialReload: 0
