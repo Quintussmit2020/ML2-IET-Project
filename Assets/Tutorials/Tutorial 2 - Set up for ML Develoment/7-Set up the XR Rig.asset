@@ -48,9 +48,9 @@ MonoBehaviour:
       Title:
         m_Untranslated: Set up the XR Rig
       Text:
-        m_Untranslated: The ML SDK comes with a preconfigured XR rig that already
-          contains a scene camera. You can delete the existing scene camera to avoid
-          conflicts.
+        m_Untranslated: The <b>XR Rig</b> represents the headset in your Unity scene.
+          It includes a <b>Session Origin</b>, the <b>Main Camera,</b> and a <b>Game
+          Controller.</b>
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -69,8 +69,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: Drag the XR Rig prefab from Packages>Magic Leap SDK>Tools>Prefabs
-          to the Hierarchy
+        m_Untranslated: Drag the <b>XR Rig</b> prefab from <b>Packages > Magic Leap
+          SDK > Tools > Prefabs</b> to the Hierarchy.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

@@ -38,10 +38,10 @@ MonoBehaviour:
         m_Untranslated: Activate the Magic Leap Simulator option
       Text:
         m_Untranslated: If you installed the Magic Leap application simulator when
-          you sintalled the Unity packages in the Magic Leap Hub, you will be able
+          you installed the Unity packages in the Magic Leap Hub, you will be able
           to use the simulator to test your applications during development. This
-          speeds up the process of development iteration since you dont have to build
-          to the headset every time you wish to test.
+          speeds up the process of development iteration since you don't have to
+          build to the headset every time you wish to test.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -60,8 +60,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: Switch to the Standalone tab, and select the Magic Leap App
-          Simulator checkbox
+        m_Untranslated: Switch to the <b>Standalone</b> tab, and enable the <b>Magic
+          Leap App Simulator</b> checkbox
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

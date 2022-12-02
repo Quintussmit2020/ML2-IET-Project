@@ -20,7 +20,7 @@ MonoBehaviour:
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 2800000, guid: 83f18f99a8fb8da459c27dfdc947a2ab, type: 3}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -35,11 +35,13 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Your first Magic Leap application
+        m_Untranslated: Build a simple application
       Text:
-        m_Untranslated: In this tutorial, you will build a simple application that
-          use the Magic Leap meshing subsystem to map a room and create a digital
-          mesh representation of the room geometry.
+        m_Untranslated: In this final tutorial, you will create your first Magic
+          Leap application. This will give you an understanding of how to set up
+          a basic scene, apply custom Magic Leap components, and add a script that
+          interacts with the game controller. You will also learn how to build and
+          run the app on your device.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

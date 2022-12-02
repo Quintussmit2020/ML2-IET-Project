@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 6-Set the meshing parent
+  m_Name: 8.1-Add the Cube Controller script
   m_EditorClassIdentifier: 
   m_Paragraphs:
     m_Items:
@@ -20,7 +20,7 @@ MonoBehaviour:
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 2800000, guid: e8cb1c449f03e474b9a0bd244aaa667f, type: 3}
+      m_Image: {fileID: 0}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -35,9 +35,12 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Set the Mesh parent
+        m_Untranslated: Apply and open the CubeController script
       Text:
-        m_Untranslated: 
+        m_Untranslated: 'We have provided you with a simple script that includes
+          the bumper press functionality. Most of the code is commented out because
+          it would have caused errors in the project prior to installing the required
+          packages. '
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -56,8 +59,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: Drag the MeshingSample GameObject from the Hierarchy into
-          the Mesh parent slot of the Meshing Subsystem component
+        m_Untranslated: Apply the  CubeController script from <b>Assets > Scripts</b>
+          to the <b>CubeController</b> GameObject and open it.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

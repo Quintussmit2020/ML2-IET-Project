@@ -35,7 +35,7 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Open the validation tool
+        m_Untranslated: Open the Project Validation tool
       Text:
         m_Untranslated: 'A project validation tool is provided with the SDK that
           allows the user to set all the relevant settings for Magic Leap development
@@ -58,8 +58,7 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: Open the validation tool by selecting Window>XR>MagicLeap>Project
-          validation
+        m_Untranslated: Select  <b>Window > XR > MagicLeap > Project Validation.</b>
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

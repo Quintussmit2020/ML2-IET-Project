@@ -37,30 +37,38 @@ MonoBehaviour:
       Title:
         m_Untranslated: Select and install packages
       Text:
-        m_Untranslated: 'To create Magic Leap applications in the Unity editor, you
-          have to install at least the ML C SDK and the Unity Package options.
+        m_Untranslated: 'To create Magic Leap applications in the Unity Editor, you
+          have to install at least the <b>ML C SDK</b> and the <b>Unity Package</b>
+          options.
 
 
-          We
-          also suggest you install the optional packages if this is the first time
-          you are developing Magic Leap applications.
-
-
-          <b>Unity Examples</b>
-
-          These
-          are example projects that demonstrate the implementation of all the headset
-          features.
-
-
-          <b>Magic Leap Application Simulator for Unity</b>
-
-          Run
-          the Magic Leap simulator inside the Unity Editor.
+          We also suggest you install the optional packages
+          if this is the first time you are developing Magic Leap applications.
 
 
           <b>Unity
-          API Documentation</b>
+          Examples</b>
+
+          These are example projects that demonstrate the
+          implementation of many of the headset features.
+
+
+          <b>Magic Leap
+          Application Simulator</b>
+
+          Iterate faster using the standalone
+          Magic Leap Application Simulator.
+
+
+          <b>Magic Leap Application
+          Simulator for Unity</b>
+
+          This gives you the ability to run the
+          Magic Leap simulator inside the Unity Editor.
+
+
+          <b>Unity API
+          Documentation</b>
 
           Documentation on implementing the headset
           features in your application.
@@ -72,10 +80,7 @@ MonoBehaviour:
           for spatialized sound.
 
 
-          <b>Magic Leap Application Simulator</b>
-
-          Iterate
-          faster using the Magic Leap Application Simulator'
+'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -94,8 +99,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: Select the packages you wish to install and select <b>Apply
-          Changes</b>
+        m_Untranslated: Select the two required packages, and any other optional
+          packages you wish to install, then select <b>Apply Changes</b>.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

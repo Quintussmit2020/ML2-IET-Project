@@ -56,9 +56,10 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: Select Fix All to run the validation tool. Notice that currently,
-          the texture compression setting cannot be updated by the validation tool.
-          In the next step, you will fix that.
+        m_Untranslated: Select <b>Fix All</b> to run the validation tool. Notice
+          that currently, the texture compression setting cannot be updated by the
+          validation tool. In the next step, you will fix that. Close the project
+          validation tool window when done.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

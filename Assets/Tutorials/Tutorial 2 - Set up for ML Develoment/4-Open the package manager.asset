@@ -37,7 +37,10 @@ MonoBehaviour:
       Title:
         m_Untranslated: Open the Unity Package Manager
       Text:
-        m_Untranslated: 
+        m_Untranslated: "The Package Manager allows you to add, remove, and update
+          packages and SDKs included in your project. You\u2019ll use the Package
+          Manager to install the SDK you downloaded through the ML Hub in the previous
+          tutorial."
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -54,10 +57,9 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 1
       Title:
-        m_Untranslated: Instruction title
+        m_Untranslated: Instruction
       Text:
-        m_Untranslated: Open the Unity package manager by selecting  Window>Package
-          manager
+        m_Untranslated: Select  <b>Window > Package Manager.</b>
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Meshing.unity
-    guid: e69880981d3ec9341bb81d48887eb2a1
+    path: Assets/Scenes/SampleMLProject.unity
+    guid: 29efec6096d577b44a7d38c83aea0d90
   m_configObjects:
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 98872ccb7404cba45b5a659d673630fc,
       type: 2}

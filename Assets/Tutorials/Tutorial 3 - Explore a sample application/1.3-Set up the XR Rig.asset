@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 8-Select the CubeController
+  m_Name: 1.3-Set up the XR Rig
   m_EditorClassIdentifier: 
   m_Paragraphs:
     m_Items:
@@ -20,14 +20,25 @@ MonoBehaviour:
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 2800000, guid: e1dda756637bff543b53db004f1ddc37, type: 3}
+      m_Image: {fileID: 2800000, guid: 79a1d6f922900534fb36dd76ee137bc3, type: 3}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0
       m_Criteria:
         m_Items: []
       m_MaskingSettings:
         m_MaskingEnabled: 0
-        m_UnmaskedViews: []
+        m_UnmaskedViews:
+        - m_SelectorType: 1
+          m_ViewType:
+            m_TypeName: 
+          m_EditorWindowType:
+            m_TypeName: UnityEditor.SceneHierarchyWindow, UnityEditor.CoreModule,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          m_AlternateEditorWindowTypes:
+            m_Items: []
+          m_MaskType: 0
+          m_MaskSizeModifier: 0
+          m_UnmaskedControls: []
       m_Summary: 
       m_Description: 
       m_InstructionBoxTitle: 
@@ -35,12 +46,11 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Explore the GameCubeController GameObject
+        m_Untranslated: Set up the XR Rig
       Text:
-        m_Untranslated: 'The CubeController GameObject contains a script that will
-          detect trigger presses on the hand controller. When a trigger is detedcted,
-          a cube will is instantiated that has a biouncy physical material applied
-          to it. '
+        m_Untranslated: The <b>XR Rig</b> represents the headset in your Unity scene.
+          It includes a <b>Session Origin</b>, the <b>Main Camera,</b> and a <b>Game
+          Controller.</b>
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -57,10 +67,10 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 1
       Title:
-        m_Untranslated: Instruction
+        m_Untranslated: 
       Text:
-        m_Untranslated: Select the CubeController GameObject and inspect the script
-          and components
+        m_Untranslated: Drag the <b>XR Rig</b> prefab from <b>Packages > Magic Leap
+          SDK > Tools > Prefabs</b> to the Hierarchy.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -90,7 +100,7 @@ MonoBehaviour:
       m_ComponentIndex: 0
       m_AssetObject: {fileID: 0}
       m_Prefab: {fileID: 0}
-    m_Enabled: 0
+    m_Enabled: 1
   NextButton:
     m_Untranslated: Next
   DoneButton:

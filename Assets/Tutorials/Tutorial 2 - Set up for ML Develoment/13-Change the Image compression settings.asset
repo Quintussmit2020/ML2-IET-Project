@@ -37,7 +37,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: Change the Image compression settings
       Text:
-        m_Untranslated: 
+        m_Untranslated: Magic Leap does not support the default texture compression
+          format.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -56,8 +57,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: Expand the Other Settings section, and change the Texture
-          compression format from ETC to DXT +RGTC(BC4,BC5)
+        m_Untranslated: Expand the <b>Other Settings</b> section, and change the
+          <b>Texture compression</b> format to <b>DXT +RGTC(BC4,BC5).</b>
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

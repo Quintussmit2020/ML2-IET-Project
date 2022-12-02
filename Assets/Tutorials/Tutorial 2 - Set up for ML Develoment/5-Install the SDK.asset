@@ -42,16 +42,10 @@ MonoBehaviour:
           asked to navigate to the folder where it was saved. This folder can be
           found at the following locations:
 
-          <b>Mac :</b> $HOME/MagicLeap/tools/unity/Version/com.magicleap.unitysdk.tgz
+          <b>Mac:</b> $HOME/MagicLeap/tools/unity/Version/com.magicleap.unitysdk.tgz
 
-          <b>Windows
-          :</b> %USERPROFILE%/MagicLeap/tools/unityVersion/com.magicleap.unitysdk.tgz
-
-
-          You
-          may close the package manager window after completing the step below.
-
-'
+          <b>Windows:</b>
+          %USERPROFILE%/MagicLeap/tools/unityVersion/com.magicleap.unitysdk.tgz'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -70,9 +64,9 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction title
       Text:
-        m_Untranslated: 'Select the + sign, select Install from tarball, then navigate
-          to the location of the sdk folder and select the .tgz file within to add
-          the package from com.magicleap.unitysdk.tgz (downloaded via ML Hub). '
+        m_Untranslated: 'Select the + sign, select <b>Add package from tarball,</b>
+          then navigate to the location of the sdk folder and select the .tgz file
+          within to add the package  <b>com.magicleap.unitysdk.tgz.</b> '
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

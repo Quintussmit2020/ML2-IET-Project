@@ -37,8 +37,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: Set the permissions
       Text:
-        m_Untranslated: After activating the Custom main Manifest, you will be able
-          to set permissions manually for your applications.
+        m_Untranslated: After activating the <b>Custom Main Manifest</b>, you will
+          be able to set permissions manually for your applications.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -57,8 +57,9 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: In the Project settings window, select Magic Leap>Permissions.
-          Set the API Level to the latest and select all fo the permission boxes.
+        m_Untranslated: In the Project settings window, select <b>Magic Leap > Permissions.</b>
+          Set the <b>API Level</b> to the highest one available and enable all of
+          the permission boxes.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

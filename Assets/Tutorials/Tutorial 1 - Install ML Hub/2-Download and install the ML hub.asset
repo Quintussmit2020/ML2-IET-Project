@@ -62,7 +62,7 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: Download the ML Hub from <a href="https://ml2-developer.magicleap.com/downloads">ML
+        m_Untranslated: Download the <a href="https://ml2-developer.magicleap.com/downloads">ML
           Hub</a> and run the installer
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}

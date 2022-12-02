@@ -35,9 +35,10 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Set to the XR plugin to Magic Leap
+        m_Untranslated: Install the Magic Leap XR plug-in
       Text:
-        m_Untranslated: Put your tutorial narrative description here
+        m_Untranslated: 'The XR Plug-in Management package allows you to easily load
+          and configure XR plug-ins for different platforms. '
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -56,7 +57,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: On the Android tab, select the Magic Leap checkbox.
+        m_Untranslated: In the Project Settings window, select <b>XR Plug-in Management,</b>
+          and in the <b>Android</b> tab, enable the <b>Magic Leap</b> checkbox.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

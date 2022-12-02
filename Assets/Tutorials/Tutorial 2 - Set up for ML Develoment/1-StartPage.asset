@@ -20,7 +20,7 @@ MonoBehaviour:
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 2800000, guid: d7033165c0a297b4a86b9d9fd439eede, type: 3}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -35,15 +35,15 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Overview
+        m_Untranslated: Set up the development environment
       Text:
         m_Untranslated: 'In this tutorial, you will set up the development environment
           for Magic Leap application development.
 
 
           First, you will import
-          the recquired packages, and then change all of the required settings to
-          build to your headset.
+          the required packages, and then change all of the required settings to
+          build to your headset or test in the simulator.
 
 '
       m_Tutorial: {fileID: 0}

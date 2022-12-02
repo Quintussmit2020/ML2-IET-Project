@@ -37,7 +37,10 @@ MonoBehaviour:
       Title:
         m_Untranslated: Switch the development platform to Android
       Text:
-        m_Untranslated: 
+        m_Untranslated: 'The Magic Leap 2 is built on the Android operating system.
+          In this step you will switch your development platform to Android.
+
+'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -56,8 +59,9 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: Switch the build platform to Android and select switch platform.
-          Close the window when done.
+        m_Untranslated: Switch the build platform to Android and select <b>Switch
+          Platform.</b>  This may take a few minutes. Close the window when the process
+          is done.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

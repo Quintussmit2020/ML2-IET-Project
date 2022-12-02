@@ -37,8 +37,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: Install the Unity ML2 SDK packages
       Text:
-        m_Untranslated: The package manager in the magic Leap Hub provides a convenient
-          way to download, manage and update your development packages.
+        m_Untranslated: The <b>Package Manager</b> in the Magic Leap Hub provides
+          a convenient way to download, manage and update your development packages.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

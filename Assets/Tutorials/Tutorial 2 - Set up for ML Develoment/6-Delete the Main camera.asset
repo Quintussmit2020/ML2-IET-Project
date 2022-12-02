@@ -46,11 +46,11 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Delete the main camera
+        m_Untranslated: Delete the Main Camera
       Text:
-        m_Untranslated: The ML SDK comes with a preconfigured XR rig that already
-          contains a scene camera. You can delete the existing scene camera to avoid
-          conflicts.
+        m_Untranslated: The Magic Leap SDK comes with a preconfigured <b>XR Rig</b>
+          that already contains a scene camera. You can delete the existing scene
+          camera to avoid conflicts.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -69,7 +69,7 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: Delete the Main Camera GameObject from the Hierarchy
+        m_Untranslated: Delete the <b>Main Camera</b> GameObject from the Hierarchy.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

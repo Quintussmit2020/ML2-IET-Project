@@ -35,10 +35,10 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Check the Custom Main Manifest option
+        m_Untranslated: Enable the Custom Main Manifest option
       Text:
         m_Untranslated: Some of the permissions for certain features of the Magic
-          Leap must be set manually. You can access these settings only after checking
+          Leap must be set manually. You can access these settings only after enabling
           the Custom manifest file option in the Player settings.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
@@ -58,8 +58,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: Expand the Publishing section under the Android tab, and
-          check the Custom Main Manifest box.
+        m_Untranslated: Expand the <b>Publishing</b> section under the <b>Android</b>
+          tab, and check the <b>Custom Main Manifest</b> checkbox.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

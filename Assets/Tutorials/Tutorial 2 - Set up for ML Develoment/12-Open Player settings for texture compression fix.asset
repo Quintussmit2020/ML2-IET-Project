@@ -56,8 +56,7 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: 'Select Player, and on the Android tab, expand the Other
-          settings panel. '
+        m_Untranslated: 'Expand the <b>Other settings</b> panel. '
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

@@ -38,8 +38,8 @@ MonoBehaviour:
         m_Untranslated: Congratulations!
       Text:
         m_Untranslated: You have successfully set up the Unity Editor for Magic Leap
-          applications development. In the following tutorial, you will create a
-          simple application and build it to the headset.
+          application development. In the following tutorial, you will create a simple
+          application and build it to the headset.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -77,7 +77,7 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'Tutorial 3: Create a simple ML2 application'
+        m_Untranslated: 'Tutorial 3: Create a simple Magic Leap application'
       m_Tutorial: {fileID: 11400000, guid: aa2123e1f16e1cf43bf2423e355a5b3d, type: 2}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

@@ -34,7 +34,7 @@ MonoBehaviour:
         is to set up the ML Hub on your local machine.
     Metadata: 
     Url: 
-    Image: {fileID: 2800000, guid: c099a3390df149142ac3dd1fdb7ad721, type: 3}
+    Image: {fileID: 2800000, guid: ad5bce947827e134ea06665ca2fc5b85, type: 3}
     Tutorial: {fileID: 11400000, guid: 3f44d25fa64184540bb2a5cfcc1ac092, type: 2}
   - OrderInView: 1
     Heading:
@@ -43,7 +43,7 @@ MonoBehaviour:
       m_Untranslated: Set up the basic development environment in the Unity Editor
     Metadata: 
     Url: 
-    Image: {fileID: 2800000, guid: c099a3390df149142ac3dd1fdb7ad721, type: 3}
+    Image: {fileID: 2800000, guid: 60fc9477bcb671b459523d02d9a8c717, type: 3}
     Tutorial: {fileID: 11400000, guid: 72e81b0afbd1770469c4e35317e1e5d8, type: 2}
   - OrderInView: 2
     Heading:
@@ -52,5 +52,5 @@ MonoBehaviour:
       m_Untranslated: Look at the various parts of a sample application
     Metadata: 
     Url: 
-    Image: {fileID: 2800000, guid: c099a3390df149142ac3dd1fdb7ad721, type: 3}
+    Image: {fileID: 2800000, guid: d7e3d631d374a0342b5c70da8e739837, type: 3}
     Tutorial: {fileID: 11400000, guid: aa2123e1f16e1cf43bf2423e355a5b3d, type: 2}

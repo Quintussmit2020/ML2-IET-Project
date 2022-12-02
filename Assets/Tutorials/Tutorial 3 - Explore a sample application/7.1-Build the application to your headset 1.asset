@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 2-Explore the Meshing sample
+  m_Name: 7.1-Build the application to your headset 1
   m_EditorClassIdentifier: 
   m_Paragraphs:
     m_Items:
@@ -20,7 +20,7 @@ MonoBehaviour:
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 2800000, guid: 749bd7767e59ebe4bab1f7fdcef35c7b, type: 3}
+      m_Image: {fileID: 2800000, guid: 2afd77560e030324496af7806e9d09fe, type: 3}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -35,9 +35,12 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Explore the Meshing Sample
+        m_Untranslated: Build the application
       Text:
-        m_Untranslated: 
+        m_Untranslated: 'When the application runs, it will detect the physical space
+          around you and display a mesh over it.
+
+'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -56,7 +59,9 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: Select and expand the MeshingSample GameObject
+        m_Untranslated: Open the <b>Build settings</b> and add the current scene
+          to the <b>Scenes in Build</b> section. Make sure your device is connected
+          and is set as the <b>Run Device</b>, then select <b>Build and Run.</b>
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
