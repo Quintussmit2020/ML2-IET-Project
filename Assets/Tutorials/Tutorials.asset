@@ -19,9 +19,9 @@ MonoBehaviour:
   OrderInView: 0
   BackgroundImage: {fileID: 0}
   Title:
-    m_Untranslated: Magic Leap 2 setup tutorials
+    m_Untranslated: 'Magic Leap 2: Getting started'
   Subtitle:
-    m_Untranslated: Subtitle
+    m_Untranslated: 
   Description:
     m_Untranslated: 
   ProjectLayout: {fileID: 102900000, guid: 04bceeee2af31494780d90724836b5ce, type: 3}
@@ -38,7 +38,7 @@ MonoBehaviour:
     Tutorial: {fileID: 11400000, guid: 3f44d25fa64184540bb2a5cfcc1ac092, type: 2}
   - OrderInView: 1
     Heading:
-      m_Untranslated: Step 2 - Setting up the development environment
+      m_Untranslated: Step 2 - Set up the development environment
     Text:
       m_Untranslated: Set up the basic development environment in the Unity Editor
     Metadata: 
