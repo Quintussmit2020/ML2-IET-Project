@@ -24,7 +24,7 @@ MonoBehaviour:
     m_Untranslated: Subtitle
   Description:
     m_Untranslated: 
-  ProjectLayout: {fileID: 0}
+  ProjectLayout: {fileID: 102900000, guid: 04bceeee2af31494780d90724836b5ce, type: 3}
   Sections:
   - OrderInView: 0
     Heading:

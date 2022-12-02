@@ -42,7 +42,10 @@ MonoBehaviour:
 
 
           First, you will import
-          the recquired packages, and then do a bunch of other things.'
+          the recquired packages, and then change all of the required settings to
+          build to your headset.
+
+'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
