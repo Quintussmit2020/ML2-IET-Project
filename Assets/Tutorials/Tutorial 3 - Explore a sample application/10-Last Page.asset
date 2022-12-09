@@ -39,9 +39,9 @@ MonoBehaviour:
       Text:
         m_Untranslated: You have successfully set up your development environment
           and built your first Magic Leap application. To continue learning how to
-          develop applications for the Magic Leap, check out the articles on <a href="https://learn.unity.com/tutorial/magic-leap-2-feature-highlight-meshing">Magic
-          Leap development</a> on Unity Learn or the official<a href="https://ml2-developer.magicleap.com">developer
-          portal</a>.
+          develop applications for Magic Leap 2, check out the articles on <a href="https://learn.unity.com/tutorial/magic-leap-2-feature-highlight-meshing">Magic
+          Leap development</a> on Unity Learn or the official<a href="https://ml2-developer.magicleap.com">Magic
+          Leap 2 developer portal.</a>
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

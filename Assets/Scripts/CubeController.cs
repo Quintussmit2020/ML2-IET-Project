@@ -22,7 +22,6 @@ public class CubeController : MonoBehaviour
         mlInputs = new MagicLeapInputs();
         mlInputs.Enable();
         controllerActions = new MagicLeapInputs.ControllerActions(mlInputs);
-
         controllerActions.Bumper.performed += HandleOnTrigger;
     }
 
