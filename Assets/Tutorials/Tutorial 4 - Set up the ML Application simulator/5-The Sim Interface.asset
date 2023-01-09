@@ -52,10 +52,11 @@ MonoBehaviour:
           <b>C: Tool Panels</b>
 
 
+          Understanding
+          the functionality of each of these windows will allow you to use the simulator
+          effectively.
 
-          You can read
-          more about each in the  <a href="https://developer-docs.magicleap.cloud/docs/guides/developer-tools/app-sim/using-app-sim#iterate-simultaneously-on-device-and-simulator">Simulator
-          documentation</a>'
+'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

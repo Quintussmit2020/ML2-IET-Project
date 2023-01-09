@@ -59,8 +59,7 @@ MonoBehaviour:
         m_Untranslated: Instruction
       Text:
         m_Untranslated: 'Click Start Application Simulator on the Application Simulator
-          activity card in the ML Hub. The <b>Application Simulator</b> module workspace
-          appears. '
+          activity card in the ML Hub. '
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

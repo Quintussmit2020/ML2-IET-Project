@@ -35,13 +35,12 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: When things go wrong
+        m_Untranslated: Troubleshooting
       Text:
-        m_Untranslated: "The Application Simulator can be tricky sometimes.\n\nPlease
-          report any bugs or ask for assistance in the \n<a href=\"https://forum.magicleap.com/hc/en-us/community/topics/115000047223-Tools\">tools
+        m_Untranslated: "If you run into problems using the Application Simulator,
+          please report any bugs or ask for assistance in the \n<a href=\"https://forum.magicleap.com/hc/en-us/community/topics/115000047223-Tools\">tools
           category of the Magic Leap Discussion Forums</a> by following the steps
-          in this <a href=\"https://developer-docs.magicleap.cloud/docs/guides/developer-tools/app-sim/error-reporting\">tutorial.</a>
-          \n\n"
+          in this <a href=\"https://developer-docs.magicleap.cloud/docs/guides/developer-tools/app-sim/error-reporting\">tutorial.</a> "
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

@@ -37,8 +37,9 @@ MonoBehaviour:
       Title:
         m_Untranslated: Congratulations
       Text:
-        m_Untranslated: "You've sucessfully set up the Magic Leap 2 Application Simulator.
-          \n\nThe Magic Leap 2 developer portal provides additional <a href=\"https://developer-docs.magicleap.cloud/docs/guides/developer-tools/app-sim/app-sim\">documentation</a>
+        m_Untranslated: "You've successfully set up the Magic Leap 2 Application
+          Simulator. \n\nThe Magic Leap 2 developer portal provides additional <a
+          href=\"https://developer-docs.magicleap.cloud/docs/guides/developer-tools/app-sim/app-sim\">documentation</a>
           on using the simulator."
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
